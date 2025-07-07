@@ -1,2 +1,3 @@
 {"latex-workshop.latex.recipe.default": "latexmk (xelatex)",
+"latex-workshop.latex.build.forceRecipeUsage": false
 }
